@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+[full photo](https://www.lightninglessons.com/images/gallery/fulls/straight-up-color-fix-compressed-website.jpeg)
